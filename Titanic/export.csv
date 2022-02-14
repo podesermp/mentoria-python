@@ -1,0 +1,4 @@
+,PassengerNo,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,weight,height,IMC
+1,3,1,3,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,,S,78,3.24,24.074074074074073
+0,1,0,3,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,,S,80,3.1329000000000002,25.53544639152223
+2,887,0,2,"Montvila, Rev. Juozas",male,27.0,0,0,211536,13.0,,S,87,2.7224999999999997,31.95592286501378
